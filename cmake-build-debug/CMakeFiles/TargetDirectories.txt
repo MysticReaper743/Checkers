@@ -1,0 +1,3 @@
+C:/Users/rkoal/source/repos/Checkers/cmake-build-debug/CMakeFiles/Checkers.dir
+C:/Users/rkoal/source/repos/Checkers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rkoal/source/repos/Checkers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
